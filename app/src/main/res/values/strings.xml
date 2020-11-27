@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Jeneng Hero</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Maloch</item>
+        <item>Volkath</item>
+        <item>Nakroth</item>
+        <item>Zephys</item>
+        <item>Hayate</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pengganti Volkath pemimipin Lokheim</item>
+        <item>Pemimpin Lokheim sejati</item>
+        <item>Pangeran penghianat</item>
+        <item>pencabut nyawa</item>
+        <item>Penghianat veda</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/maloch</item>
+        <item>@drawable/volkath</item>
+        <item>@drawable/nakroth</item>
+        <item>@drawable/zephys</item>
+        <item>@drawable/hayate</item>
+    </string-array>
+</resources>
